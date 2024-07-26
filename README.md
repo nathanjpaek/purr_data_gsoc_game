@@ -1,1 +1,1 @@
-# purr_data_gsoc_games
+# Games for Purr Data
