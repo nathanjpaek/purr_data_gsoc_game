@@ -1,5 +1,0 @@
-#N canvas 973 -981 450 300 12;
-#X obj 110 118 bng 80 250 50 0 empty empty RESET 0 -10 0 12 #c6feff #0400ff #e3c6ff;
-#X obj 116 231 s \$0-clearboard;
-#X connect 0 0 1 0;
-#X coords 0 -1 1 1 100 100 2 100 100;
